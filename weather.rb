@@ -6,7 +6,7 @@
 # 	:temperature_farenheit => 66.3
 # }
 
-{
+weather={
     :city => "New York",
     :description => "Partly Cloudy",
     :temperature_farenheit => 66.3,
